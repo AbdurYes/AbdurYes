@@ -1,8 +1,29 @@
-## 💡 Building The Future Through Innovation
+## Building The Future Through Innovation
 
-At just 14 years old, I'm merging my Commerce education with my passion for **technology** and **entrepreneurship**. Age is just a number when it comes to making an impact.
+## About Me
 
-My journey started with a curiosity about how technology can solve real-world problems. Over time, this has evolved into building practical solutions while learning essential business principles.
+I am passionate about integrating technology and entrepreneurship to develop impactful solutions. My journey began with a deep curiosity about how technology can address real-world challenges, evolving into a commitment to creating practical innovations while gaining essential business expertise.
 
-Beyond studying and coding, I enjoy exploring innovative business ideas, staying up-to-date with emerging technologies, and collaborating with like-minded individuals to bring ideas to life.
+## Areas of Focus
 
+Technology-driven problem-solving
+
+Cybersecurity and system security
+
+Business development and investment
+
+Software engineering and automation
+
+## Interests
+
+Cybersecurity and ethical hacking
+
+Business strategy and investment
+
+Software development and optimization
+
+Artificial intelligence and automation
+
+Beyond coding and studying, I actively explore new business opportunities, stay updated on emerging technologies, and collaborate with professionals who share a vision for innovation.
+
+I welcome opportunities for collaboration and discussion on technology, business, and security.
